@@ -12,7 +12,7 @@ have fun play around learn something, I create this app to learn more about sock
 
 ## Deploy Link
 
-[Live Server](https://easy-busy.herokuapp.com/)
+## [Live Server](https://easy-busy.herokuapp.com/)
 
 ## the package using in this app
 
