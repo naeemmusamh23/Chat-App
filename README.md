@@ -7,14 +7,14 @@ have fun play around learn something, I create this app to learn more about sock
 ![HTML](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=red&color=dc4a27)
 ![CSS](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=CSS3&logoColor=264bdc&color=264bdc)
 ![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=Express&logoColor=black&color=black)
-![socket](https://img.shields.io/badge/⚡Developer-Socket.io-informational?style=flat&logoColor=white&color=black)
+![socket.io](https://img.shields.io/badge/socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-# Deploy Link
+## Deploy Link
 
-[Live Server](https://chats-apps-test.herokuapp.com/chat.html?username=naeem&room=Room+1)
+[Live Server](https://easy-busy.herokuapp.com/)
 
-# the package using in this app
+## the package using in this app
 
 * [npm express](https://www.npmjs.com/package/express)
 
@@ -40,7 +40,7 @@ A JavaScript date library for parsing, validating, manipulating, and formatting 
 
 A query string parser that supports nesting and arrays, with a depth limit.
 
-# The Result
+## The Result
 
 ![chatapp](/public/image/easybesy.jpg)
 
